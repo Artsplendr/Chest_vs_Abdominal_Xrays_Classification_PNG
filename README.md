@@ -18,7 +18,7 @@ Other models on TensorFlow Hub are available at [this link](https://tfhub.dev/s?
 Few examples of predictions below:
   
 <p align="left">
-  <img width="224" height="219" src="images/xray_chest2.png"><img width="224" height="219" src="images/xray_abd2.png">
+  <img width="224" height="219" src="images/xray_chest2.png">< src="images/xray_abd2.png">
 </p>
   
  
